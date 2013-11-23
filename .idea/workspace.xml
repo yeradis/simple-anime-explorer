@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e158bf42-feb3-4b28-a6b3-e27992dfbec5" name="Default" comment="" />
+    <list default="true" id="e158bf42-feb3-4b28-a6b3-e27992dfbec5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="simple-anime-explorer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,19 +61,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="584" selection-end="584" vertical-scroll-proportion="0.35764375" vertical-offset="0" max-vertical-offset="3015">
+            <state line="17" column="0" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3015">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+            <state line="26" column="82" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.5371901" vertical-offset="0" max-vertical-offset="726">
               <folding />
             </state>
           </provider>
@@ -409,13 +411,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="43" selection-start="802" selection-end="802" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="690">
@@ -446,7 +441,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="584" selection-end="584" vertical-scroll-proportion="0.35764375" vertical-offset="0" max-vertical-offset="3015">
+        <state line="17" column="0" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3015">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="82" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.5371901" vertical-offset="0" max-vertical-offset="726">
           <folding />
         </state>
       </provider>

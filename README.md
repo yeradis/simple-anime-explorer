@@ -22,5 +22,6 @@ But if you are here at GitHub, you are looking for another stuff xD
 Just a simple WebApp consuming a simple Python API using JQuery.
 Structured with a simple JavaScript Design Pattern know as Module Pattern
 
-Also there is a simple offline pagination behavior that use some Media Queries.
+There is a simple offline pagination behavior that use some Media Queries.
 
+Also this can be a simple template for some simple project to paint some JSON data
